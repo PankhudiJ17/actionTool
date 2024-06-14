@@ -1,0 +1,48 @@
+Kubeflow
+helps you learn to build ml model
+
+who built kubeflow-
+1. google
+2. ibm
+3. cisco
+4. red hat
+
+
+major dependencies
+packages that are integrated in kubeflow - 1.pipiline
+2. Notebooks
+3. Dashboard
+4.AutoML
+5. Model Training
+6. Model Serving
+
+Till 1.5.0 NO POWER(IBM) WAS INVOLVEDff
+4 phases -
+1.
+2.
+3.
+4.
+
+
+5 major components:
+1. Central Dashboard
+2. kubeflow Notebooks
+3. Kubeflow Pipelines
+4. Katib
+5. Training Operator
+Ml framework
+=> mxnet
+=> Pytorch
+=> Chainer
+=> TensorFlow
+
+cryptography - not available for power
+
+3rd party -- not into the kubeflow but these are he third party which are used in kubeflow integration  
+
+kubeflow code - majorly in python , go ,some are pearl. 
+
+
+
+KUBEFLOW 
+
